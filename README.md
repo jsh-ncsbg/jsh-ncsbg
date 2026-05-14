@@ -22,7 +22,7 @@ I'm a Computer Science student majoring in Software Technology. My main goal thi
 ## My Contribution Summary
 <p align="center">
   <a href="#">
-  <img src="https://streak-stats.demolab.com?user=soju-jsh&theme=dark&hide_border=false&short_numbers=true&mode=weekly">
+  <img src="https://streak-stats.demolab.com?user=jsh-ncsbg&theme=dark&hide_border=false&short_numbers=true&mode=weekly">
   </a>
 </p>
 
