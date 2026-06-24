@@ -5,7 +5,7 @@ I'm a Computer Science student majoring in Software Technology. My main goal thi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/joshua-nacasabog/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/jsh.ncsbg/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1040070799178076170)
-![](https://komarev.com/ghpvc/?username=soju-jsh)
+![](https://komarev.com/ghpvc/?username=jsh-ncsbg)
 
 ## :hammer_and_wrench: Languages and Tools
 <p align="center">
