@@ -10,7 +10,7 @@ I'm a Computer Science student majoring in Software Technology. My main goal thi
 ## :hammer_and_wrench: Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,bootstrap,nodejs,mongodb,expressjs,mysql,go,docker,nextjs,vim,git,github,figma,obsidian,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,go,rust,bootstrap,nodejs,mongodb,expressjs,mysql,postgres,docker,nextjs,svelte,vim,git,github,figma,obsidian,vscode&perline=8" />
   </a>
 <!-- </p>
 <p align="center">
